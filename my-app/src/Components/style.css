@@ -1,0 +1,70 @@
+.Home{
+ display: flex;
+}
+
+.sideBar{
+width: 100%;
+ 
+}
+
+.toDo{
+    width: 100%;
+    /* background-color: rgb(225, 159, 36); */
+    border: 1px solid black;
+}
+
+.inProgress{
+    width: 100%;
+    /* background-color: rgb(30, 215, 76); */
+    border: 1px solid black;
+}
+
+.done{
+    width: 100%;
+    /* background-color: rgb(207, 52, 109); */
+    border: 1px solid black;
+}
+
+/* individual task */
+.taskIndiv{
+    margin: 5%;
+    border: 2px solid red;
+    padding: 1%;
+    /* margin-bottom: 2px solid black; */
+
+}
+
+.taskIndivFlex{
+    display: flex;
+}
+
+ 
+
+.headingNae1{
+     
+    margin-top: 0%;
+     
+    padding: 4%;
+    text-align: center;
+    background-color: #FF5F00;
+}
+
+.headingNae2{
+    
+    color: #EEEEEE;
+    margin-top: 0%;
+    /* height: 10%; */
+    padding: 4%;
+    text-align: center;
+    background-color: #00b277;
+}
+
+.headingNae3{
+     
+    color: #EEEEEE;
+    margin-top: 0%;
+    
+    padding: 4%;
+    text-align: center;
+    background-color: #1137d2;
+}
